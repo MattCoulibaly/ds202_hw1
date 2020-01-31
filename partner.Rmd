@@ -1,0 +1,16 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Full Name: Eli Musgrove, Github: elimusgrove
+
+Matt committed "first commit hw_1" with id: 686760d7524343e0cb029a848dac047248fee4c6
+
+I couldn't knit Matt's homework 1 because the image file wasn't in the repopsitory.
+
+We encoutered a problem trying to clone a folder with the same name as the homework 1 I already had, so I had to look up how to name the folder we clone into.
